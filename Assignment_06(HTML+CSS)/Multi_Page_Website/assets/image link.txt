@@ -1,0 +1,16 @@
+bottomAngle.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Multi-Page%20Website/images/bottomAngle.png
+
+doctor.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Multi-Page%20Website/images/doctor.png
+
+greenBox.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Multi-Page%20Website/images/greenBox.png
+
+lolo.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Multi-Page%20Website/images/logo.png
+
+mouse.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Multi-Page%20Website/images/mouse.png
+
+stethoscope.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Multi-Page%20Website/images/stethoscope.png
+
+topAngle.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Multi-Page%20Website/images/topAngle.png
+
+yellowBox.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Multi-Page%20Website/images/yellowBox.png
+
