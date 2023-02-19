@@ -1,0 +1,29 @@
+amazonLogo.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/amazonLogo.png
+
+appleLogo.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/appleLogo.png
+
+beatsLogo.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/beatsLogo.png
+
+black.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/black.png
+
+blue.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/blue.png
+
+buyNowSectionImage.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/buyNowSectionImage.png
+
+caseImage.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/caseImage.png
+
+mainImage.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/mainImage.png
+
+nightBlack.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/nightBlack.png
+
+onEar.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/onEar.png
+
+redBlack.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/redBlack.png
+
+specsImage.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/specsImage.png
+
+spotifyLogo.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/spotifyLogo.png
+
+twitlightGray.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/twilightGray.png
+
+youtubeLogo.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Photos/youtubeLogo.png

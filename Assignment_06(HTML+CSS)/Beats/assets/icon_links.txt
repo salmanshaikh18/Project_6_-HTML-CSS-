@@ -1,0 +1,29 @@
+battery.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/battery.png
+
+blutooth.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/bluetooth.png
+
+caseLogo.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/caseLogo.png
+
+charger.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/charger.png
+
+facebook.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/facebook.png
+
+group.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/group.png
+ 
+instagram.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/instagram.png
+
+linkedin.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/linkedin.png
+
+mic.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/mic.png
+
+productLogo.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/productLogo.png
+
+rightArrow.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/rightArrow.png
+
+shoppingBag.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/shoppingBag.png
+
+specsLogo.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/specsLogo.png
+
+twitter.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/twitter.png
+
+upArrow.png : https://raw.githubusercontent.com/salmanshaikh18/fullstackwebdevelopment/main/11%20Feb%202023/Beats/Icons/upArrow.png
